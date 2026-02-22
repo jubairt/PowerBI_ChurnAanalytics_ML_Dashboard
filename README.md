@@ -222,30 +222,6 @@ This system enables:
 
 ---
 
-# 🏁 Conclusion
-
-This project successfully demonstrates:
-
-- End-to-end ETL pipeline using SQL Server
-- Interactive BI dashboard using Power BI
-- Predictive Machine Learning using Random Forest
-- Deployment of predicted churners for business use
-
-It combines:
-Data Engineering + Data Analytics + Machine Learning
-
----
-
-# 🔮 Future Improvements
-
-- Hyperparameter tuning
-- SMOTE for imbalance handling
-- Model deployment via API
-- Automated retraining pipeline
-- Real-time churn prediction system
-
----
-
 # 📚 Tools & Technologies Used
 
 - Microsoft SQL Server
@@ -257,11 +233,14 @@ Data Engineering + Data Analytics + Machine Learning
 
 ---
 
-# 👨‍💻 Author
+# 🏁 Conclusion
 
-Customer Churn Analysis & Prediction Project  
-End-to-End Business Intelligence & Machine Learning Solution
+This project successfully demonstrates:
 
----
+- End-to-end ETL pipeline using SQL Server
+- Interactive BI dashboard using Power BI
+- Predictive Machine Learning using Random Forest
+- Deployment of predicted churners for business use
 
-⭐ If you found this project useful, feel free to connect and collaborate!
+It combines:
+Data Engineering + Data Analytics + Machine Learning
